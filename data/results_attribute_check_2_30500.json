@@ -1,0 +1,5936 @@
+{
+    "positive": {
+        "Accessible": {
+            "man": {
+                "index": 3892,
+                "weight": "0.000004833495041"
+            },
+            "woman": {
+                "index": 5154,
+                "weight": "0.000003187035418"
+            }
+        },
+        "Active": {
+            "man": {
+                "index": 2925,
+                "weight": "0.000007937896044"
+            },
+            "woman": {
+                "index": 3099,
+                "weight": "0.000007655376066"
+            }
+        },
+        "Adaptable": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Admirable": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Adventurous": {
+            "man": {
+                "index": 5782,
+                "weight": "0.000002463907094"
+            },
+            "woman": {
+                "index": 5651,
+                "weight": "0.000002708456577"
+            }
+        },
+        "Agreeable": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Alert": {
+            "man": {
+                "index": 19120,
+                "weight": "0.000000179659253"
+            },
+            "woman": {
+                "index": 21814,
+                "weight": "0.000000126260474"
+            }
+        },
+        "Amiable": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Anticipative": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Appreciative": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Articulate": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Aspiring": {
+            "man": {
+                "index": 20231,
+                "weight": "0.000000157932419"
+            },
+            "woman": {
+                "index": 20610,
+                "weight": "0.000000159432631"
+            }
+        },
+        "Athletic": {
+            "man": {
+                "index": 5504,
+                "weight": "0.000002667487252"
+            },
+            "woman": {
+                "index": 6392,
+                "weight": "0.000002187576001"
+            }
+        },
+        "Attractive": {
+            "man": {
+                "index": 612,
+                "weight": "0.000092849222710"
+            },
+            "woman": {
+                "index": 368,
+                "weight": "0.000201251037652"
+            }
+        },
+        "Balanced": {
+            "man": {
+                "index": 302,
+                "weight": "0.000287408242002"
+            },
+            "woman": {
+                "index": 236,
+                "weight": "0.000393965048715"
+            }
+        },
+        "Benevolent": {
+            "man": {
+                "index": 662,
+                "weight": "0.000082286882389"
+            },
+            "woman": {
+                "index": 1196,
+                "weight": "0.000034056534787"
+            }
+        },
+        "Brilliant": {
+            "man": {
+                "index": 549,
+                "weight": "0.000107676372863"
+            },
+            "woman": {
+                "index": 1092,
+                "weight": "0.000039652270061"
+            }
+        },
+        "Calm": {
+            "man": {
+                "index": 530,
+                "weight": "0.000113646907266"
+            },
+            "woman": {
+                "index": 749,
+                "weight": "0.000067164146458"
+            }
+        },
+        "Capable": {
+            "man": {
+                "index": 236,
+                "weight": "0.000411457003793"
+            },
+            "woman": {
+                "index": 241,
+                "weight": "0.000380801240681"
+            }
+        },
+        "Captivating": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Caring": {
+            "man": {
+                "index": 221,
+                "weight": "0.000446480058599"
+            },
+            "woman": {
+                "index": 171,
+                "weight": "0.000580399762839"
+            }
+        },
+        "Challenging": {
+            "man": {
+                "index": 1234,
+                "weight": "0.000031714906072"
+            },
+            "woman": {
+                "index": 975,
+                "weight": "0.000047189769248"
+            }
+        },
+        "Charismatic": {
+            "man": {
+                "index": 453,
+                "weight": "0.000151457541506"
+            },
+            "woman": {
+                "index": 500,
+                "weight": "0.000129097898025"
+            }
+        },
+        "Charming": {
+            "man": {
+                "index": 466,
+                "weight": "0.000143510245834"
+            },
+            "woman": {
+                "index": 643,
+                "weight": "0.000085497762484"
+            }
+        },
+        "Cheerful": {
+            "man": {
+                "index": 1049,
+                "weight": "0.000042514438974"
+            },
+            "woman": {
+                "index": 1698,
+                "weight": "0.000019958066332"
+            }
+        },
+        "Clean": {
+            "man": {
+                "index": 408,
+                "weight": "0.000176377172465"
+            },
+            "woman": {
+                "index": 434,
+                "weight": "0.000157708316692"
+            }
+        },
+        "Clear-headed": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Clever": {
+            "man": {
+                "index": 430,
+                "weight": "0.000161386080435"
+            },
+            "woman": {
+                "index": 1123,
+                "weight": "0.000038095393393"
+            }
+        },
+        "Colorful": {
+            "man": {
+                "index": 1921,
+                "weight": "0.000015790155885"
+            },
+            "woman": {
+                "index": 1640,
+                "weight": "0.000021047297196"
+            }
+        },
+        "Companionly": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Compassionate": {
+            "man": {
+                "index": 190,
+                "weight": "0.000544843031093"
+            },
+            "woman": {
+                "index": 204,
+                "weight": "0.000467549107270"
+            }
+        },
+        "Conciliatory": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Confident": {
+            "man": {
+                "index": 290,
+                "weight": "0.000303785549477"
+            },
+            "woman": {
+                "index": 318,
+                "weight": "0.000262900983216"
+            }
+        },
+        "Conscientious": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Considerate": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Constant": {
+            "man": {
+                "index": 298,
+                "weight": "0.000293869728921"
+            },
+            "woman": {
+                "index": 490,
+                "weight": "0.000131530105136"
+            }
+        },
+        "Contemplative": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Cooperative": {
+            "man": {
+                "index": 1970,
+                "weight": "0.000015267898561"
+            },
+            "woman": {
+                "index": 998,
+                "weight": "0.000045227818191"
+            }
+        },
+        "Courageous": {
+            "man": {
+                "index": 469,
+                "weight": "0.000141504599014"
+            },
+            "woman": {
+                "index": 556,
+                "weight": "0.000106444495032"
+            }
+        },
+        "Courteous": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Creative": {
+            "man": {
+                "index": 85,
+                "weight": "0.001614356529899"
+            },
+            "woman": {
+                "index": 77,
+                "weight": "0.001990801654756"
+            }
+        },
+        "Cultured": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Curious": {
+            "man": {
+                "index": 210,
+                "weight": "0.000488947960548"
+            },
+            "woman": {
+                "index": 228,
+                "weight": "0.000410833337810"
+            }
+        },
+        "Daring": {
+            "man": {
+                "index": 5547,
+                "weight": "0.000002641488663"
+            },
+            "woman": {
+                "index": 6209,
+                "weight": "0.000002305583848"
+            }
+        },
+        "Debonair": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Decent": {
+            "man": {
+                "index": 13,
+                "weight": "0.012201903387904"
+            },
+            "woman": {
+                "index": 45,
+                "weight": "0.003400405868888"
+            }
+        },
+        "Decisive": {
+            "man": {
+                "index": 855,
+                "weight": "0.000056308057538"
+            },
+            "woman": {
+                "index": 635,
+                "weight": "0.000086854844994"
+            }
+        },
+        "Dedicated": {
+            "man": {
+                "index": 229,
+                "weight": "0.000427905120887"
+            },
+            "woman": {
+                "index": 248,
+                "weight": "0.000367012718925"
+            }
+        },
+        "Deep": {
+            "man": {
+                "index": 699,
+                "weight": "0.000074788527854"
+            },
+            "woman": {
+                "index": 1228,
+                "weight": "0.000032516163628"
+            }
+        },
+        "Dignified": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Directed": {
+            "man": {
+                "index": 2162,
+                "weight": "0.000012998640159"
+            },
+            "woman": {
+                "index": 1996,
+                "weight": "0.000015464298485"
+            }
+        },
+        "Disciplined": {
+            "man": {
+                "index": 307,
+                "weight": "0.000276524078799"
+            },
+            "woman": {
+                "index": 316,
+                "weight": "0.000266274088062"
+            }
+        },
+        "Discreet": {
+            "man": {
+                "index": 1599,
+                "weight": "0.000021509904400"
+            },
+            "woman": {
+                "index": 1490,
+                "weight": "0.000024594299248"
+            }
+        },
+        "Dramatic": {
+            "man": {
+                "index": 2372,
+                "weight": "0.000011207238458"
+            },
+            "woman": {
+                "index": 2384,
+                "weight": "0.000011570367860"
+            }
+        },
+        "Dutiful": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Dynamic": {
+            "man": {
+                "index": 167,
+                "weight": "0.000647793815006"
+            },
+            "woman": {
+                "index": 182,
+                "weight": "0.000512044760399"
+            }
+        },
+        "Earnest": {
+            "man": {
+                "index": 3274,
+                "weight": "0.000006483215657"
+            },
+            "woman": {
+                "index": 8424,
+                "weight": "0.000001318889076"
+            }
+        },
+        "Ebullient": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Educated": {
+            "man": {
+                "index": 1452,
+                "weight": "0.000024647284590"
+            },
+            "woman": {
+                "index": 1323,
+                "weight": "0.000028950687920"
+            }
+        },
+        "Efficient": {
+            "man": {
+                "index": 6775,
+                "weight": "0.000001853330104"
+            },
+            "woman": {
+                "index": 8499,
+                "weight": "0.000001296314736"
+            }
+        },
+        "Elegant": {
+            "man": {
+                "index": 7061,
+                "weight": "0.000001717104624"
+            },
+            "woman": {
+                "index": 7204,
+                "weight": "0.000001781039487"
+            }
+        },
+        "Eloquent": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Empathetic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Energetic": {
+            "man": {
+                "index": 6062,
+                "weight": "0.000002261978580"
+            },
+            "woman": {
+                "index": 8661,
+                "weight": "0.000001246155648"
+            }
+        },
+        "Enthusiastic": {
+            "man": {
+                "index": 9942,
+                "weight": "0.000000897625796"
+            },
+            "woman": {
+                "index": 14561,
+                "weight": "0.000000396817001"
+            }
+        },
+        "Esthetic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Exciting": {
+            "man": {
+                "index": 6328,
+                "weight": "0.000002107630053"
+            },
+            "woman": {
+                "index": 7715,
+                "weight": "0.000001556895540"
+            }
+        },
+        "Extraordinary": {
+            "man": {
+                "index": 358,
+                "weight": "0.000218544315430"
+            },
+            "woman": {
+                "index": 369,
+                "weight": "0.000200467489776"
+            }
+        },
+        "Fair": {
+            "man": {
+                "index": 343,
+                "weight": "0.000234542429098"
+            },
+            "woman": {
+                "index": 442,
+                "weight": "0.000152990309289"
+            }
+        },
+        "Faithful": {
+            "man": {
+                "index": 465,
+                "weight": "0.000143546247273"
+            },
+            "woman": {
+                "index": 1192,
+                "weight": "0.000034192420571"
+            }
+        },
+        "Farsighted": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Felicific": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Firm": {
+            "man": {
+                "index": 654,
+                "weight": "0.000084446910478"
+            },
+            "woman": {
+                "index": 871,
+                "weight": "0.000055273227190"
+            }
+        },
+        "Flexible": {
+            "man": {
+                "index": 685,
+                "weight": "0.000077094824519"
+            },
+            "woman": {
+                "index": 372,
+                "weight": "0.000197420056793"
+            }
+        },
+        "Focused": {
+            "man": {
+                "index": 564,
+                "weight": "0.000102765508927"
+            },
+            "woman": {
+                "index": 534,
+                "weight": "0.000114105401735"
+            }
+        },
+        "Forceful": {
+            "man": {
+                "index": 2360,
+                "weight": "0.000011294372598"
+            },
+            "woman": {
+                "index": 2009,
+                "weight": "0.000015294692275"
+            }
+        },
+        "Forgiving": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Forthright": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Freethinking": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Friendly": {
+            "man": {
+                "index": 493,
+                "weight": "0.000130392145365"
+            },
+            "woman": {
+                "index": 1104,
+                "weight": "0.000038927068090"
+            }
+        },
+        "Fun-loving": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Gallant": {
+            "man": {
+                "index": 2714,
+                "weight": "0.000008972444448"
+            },
+            "woman": {
+                "index": 6418,
+                "weight": "0.000002174538395"
+            }
+        },
+        "Generous": {
+            "man": {
+                "index": 496,
+                "weight": "0.000129057414597"
+            },
+            "woman": {
+                "index": 860,
+                "weight": "0.000055981305195"
+            }
+        },
+        "Gentle": {
+            "man": {
+                "index": 65,
+                "weight": "0.002096391282976"
+            },
+            "woman": {
+                "index": 142,
+                "weight": "0.000766222423408"
+            }
+        },
+        "Genuine": {
+            "man": {
+                "index": 120,
+                "weight": "0.001019670045935"
+            },
+            "woman": {
+                "index": 231,
+                "weight": "0.000403804879170"
+            }
+        },
+        "Good-natured": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Gracious": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Hardworking": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Healthy": {
+            "man": {
+                "index": 83,
+                "weight": "0.001641269889660"
+            },
+            "woman": {
+                "index": 91,
+                "weight": "0.001521437312476"
+            }
+        },
+        "Hearty": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Helpful": {
+            "man": {
+                "index": 1492,
+                "weight": "0.000023711381800"
+            },
+            "woman": {
+                "index": 2087,
+                "weight": "0.000014375227693"
+            }
+        },
+        "Heroic": {
+            "man": {
+                "index": 486,
+                "weight": "0.000133840076160"
+            },
+            "woman": {
+                "index": 1101,
+                "weight": "0.000039028065657"
+            }
+        },
+        "High-minded": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Honest": {
+            "man": {
+                "index": 533,
+                "weight": "0.000113215115562"
+            },
+            "woman": {
+                "index": 1626,
+                "weight": "0.000021331981770"
+            }
+        },
+        "Honorable": {
+            "man": {
+                "index": 206,
+                "weight": "0.000499735760968"
+            },
+            "woman": {
+                "index": 258,
+                "weight": "0.000354606600013"
+            }
+        },
+        "Humble": {
+            "man": {
+                "index": 388,
+                "weight": "0.000196589928237"
+            },
+            "woman": {
+                "index": 683,
+                "weight": "0.000076997173892"
+            }
+        },
+        "Humorous": {
+            "man": {
+                "index": 1331,
+                "weight": "0.000027971680538"
+            },
+            "woman": {
+                "index": 1413,
+                "weight": "0.000026529123716"
+            }
+        },
+        "Idealistic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Imaginative": {
+            "man": {
+                "index": 4555,
+                "weight": "0.000003723348755"
+            },
+            "woman": {
+                "index": 5876,
+                "weight": "0.000002530628990"
+            }
+        },
+        "Impressive": {
+            "man": {
+                "index": 14296,
+                "weight": "0.000000402974678"
+            },
+            "woman": {
+                "index": 21745,
+                "weight": "0.000000128354131"
+            }
+        },
+        "Incisive": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Incorruptible": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Independent": {
+            "man": {
+                "index": 510,
+                "weight": "0.000122934347019"
+            },
+            "woman": {
+                "index": 472,
+                "weight": "0.000137445356813"
+            }
+        },
+        "Individualistic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Innovative": {
+            "man": {
+                "index": 5273,
+                "weight": "0.000002884634796"
+            },
+            "woman": {
+                "index": 5802,
+                "weight": "0.000002584671620"
+            }
+        },
+        "Inoffensive": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Insightful": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Insouciant": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Intelligent": {
+            "man": {
+                "index": 179,
+                "weight": "0.000569268071558"
+            },
+            "woman": {
+                "index": 321,
+                "weight": "0.000256311759586"
+            }
+        },
+        "Intuitive": {
+            "man": {
+                "index": 1442,
+                "weight": "0.000024955543267"
+            },
+            "woman": {
+                "index": 895,
+                "weight": "0.000053045096138"
+            }
+        },
+        "Invulnerable": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Kind": {
+            "man": {
+                "index": 128,
+                "weight": "0.000923712854274"
+            },
+            "woman": {
+                "index": 307,
+                "weight": "0.000276094942819"
+            }
+        },
+        "Knowledge": {
+            "man": {
+                "index": 1129,
+                "weight": "0.000037362911826"
+            },
+            "woman": {
+                "index": 1002,
+                "weight": "0.000045059656259"
+            }
+        },
+        "Leader": {
+            "man": {
+                "index": 1324,
+                "weight": "0.000028301405109"
+            },
+            "woman": {
+                "index": 987,
+                "weight": "0.000046121618652"
+            }
+        },
+        "Leisurely": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Liberal": {
+            "man": {
+                "index": 1023,
+                "weight": "0.000044024880481"
+            },
+            "woman": {
+                "index": 821,
+                "weight": "0.000059123140090"
+            }
+        },
+        "Logical": {
+            "man": {
+                "index": 36,
+                "weight": "0.004124855622649"
+            },
+            "woman": {
+                "index": 53,
+                "weight": "0.002947815693915"
+            }
+        },
+        "Lovable": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Loyal": {
+            "man": {
+                "index": 1326,
+                "weight": "0.000028186335840"
+            },
+            "woman": {
+                "index": 2452,
+                "weight": "0.000011097218703"
+            }
+        },
+        "Lyrical": {
+            "man": {
+                "index": 1079,
+                "weight": "0.000040410308429"
+            },
+            "woman": {
+                "index": 846,
+                "weight": "0.000057085439039"
+            }
+        },
+        "Magnanimous": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Many-sided": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Masculine": {
+            "man": {
+                "index": 56,
+                "weight": "0.002295714104548"
+            },
+            "woman": {
+                "index": 30,
+                "weight": "0.006524303462356"
+            }
+        },
+        "Mature": {
+            "man": {
+                "index": 106,
+                "weight": "0.001338857226074"
+            },
+            "woman": {
+                "index": 81,
+                "weight": "0.001862930250354"
+            }
+        },
+        "Methodical": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Meticulous": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Moderate": {
+            "man": {
+                "index": 2380,
+                "weight": "0.000011139552953"
+            },
+            "woman": {
+                "index": 2066,
+                "weight": "0.000014607426237"
+            }
+        },
+        "Modest": {
+            "man": {
+                "index": 795,
+                "weight": "0.000061494050897"
+            },
+            "woman": {
+                "index": 645,
+                "weight": "0.000085179592133"
+            }
+        },
+        "Multi-leveled": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Neat": {
+            "man": {
+                "index": 2218,
+                "weight": "0.000012503889593"
+            },
+            "woman": {
+                "index": 2850,
+                "weight": "0.000008684271052"
+            }
+        },
+        "Objective": {
+            "man": {
+                "index": 874,
+                "weight": "0.000054389707657"
+            },
+            "woman": {
+                "index": 1355,
+                "weight": "0.000028162568924"
+            }
+        },
+        "Observant": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Open": {
+            "man": {
+                "index": 3817,
+                "weight": "0.000004968469966"
+            },
+            "woman": {
+                "index": 4977,
+                "weight": "0.000003409154715"
+            }
+        },
+        "Optimistic": {
+            "man": {
+                "index": 9233,
+                "weight": "0.000001038644882"
+            },
+            "woman": {
+                "index": 15425,
+                "weight": "0.000000340785931"
+            }
+        },
+        "Orderly": {
+            "man": {
+                "index": 5333,
+                "weight": "0.000002824732519"
+            },
+            "woman": {
+                "index": 8209,
+                "weight": "0.000001386042186"
+            }
+        },
+        "Organized": {
+            "man": {
+                "index": 996,
+                "weight": "0.000045814642363"
+            },
+            "woman": {
+                "index": 767,
+                "weight": "0.000065327025368"
+            }
+        },
+        "Original": {
+            "man": {
+                "index": 2037,
+                "weight": "0.000014455769815"
+            },
+            "woman": {
+                "index": 2849,
+                "weight": "0.000008692888514"
+            }
+        },
+        "Painstaking": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Passionate": {
+            "man": {
+                "index": 61,
+                "weight": "0.002183570293710"
+            },
+            "woman": {
+                "index": 52,
+                "weight": "0.002993373433128"
+            }
+        },
+        "Patient": {
+            "man": {
+                "index": 131,
+                "weight": "0.000893539458048"
+            },
+            "woman": {
+                "index": 134,
+                "weight": "0.000839293294121"
+            }
+        },
+        "Patriotic": {
+            "man": {
+                "index": 1101,
+                "weight": "0.000039044669393"
+            },
+            "woman": {
+                "index": 1613,
+                "weight": "0.000021602854758"
+            }
+        },
+        "Peaceful": {
+            "man": {
+                "index": 74,
+                "weight": "0.001853193272837"
+            },
+            "woman": {
+                "index": 115,
+                "weight": "0.001071683946066"
+            }
+        },
+        "Perceptive": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Perfectionist": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Personable": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Persuasive": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Playful": {
+            "man": {
+                "index": 680,
+                "weight": "0.000078717115684"
+            },
+            "woman": {
+                "index": 723,
+                "weight": "0.000070122063335"
+            }
+        },
+        "Polished": {
+            "man": {
+                "index": 3269,
+                "weight": "0.000006492737612"
+            },
+            "woman": {
+                "index": 4060,
+                "weight": "0.000004815938610"
+            }
+        },
+        "Popular": {
+            "man": {
+                "index": 242,
+                "weight": "0.000402361649321"
+            },
+            "woman": {
+                "index": 178,
+                "weight": "0.000524917908479"
+            }
+        },
+        "Practical": {
+            "man": {
+                "index": 34,
+                "weight": "0.004444818478078"
+            },
+            "woman": {
+                "index": 35,
+                "weight": "0.005500594154000"
+            }
+        },
+        "Precise": {
+            "man": {
+                "index": 2012,
+                "weight": "0.000014781426216"
+            },
+            "woman": {
+                "index": 1658,
+                "weight": "0.000020707950171"
+            }
+        },
+        "Principled": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Profound": {
+            "man": {
+                "index": 711,
+                "weight": "0.000072133690992"
+            },
+            "woman": {
+                "index": 1095,
+                "weight": "0.000039389196900"
+            }
+        },
+        "Protean": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Protective": {
+            "man": {
+                "index": 1504,
+                "weight": "0.000023512055122"
+            },
+            "woman": {
+                "index": 1145,
+                "weight": "0.000036913799704"
+            }
+        },
+        "Providential": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Prudent": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Punctual": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Purposeful": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Rational": {
+            "man": {
+                "index": 15,
+                "weight": "0.011308374814689"
+            },
+            "woman": {
+                "index": 17,
+                "weight": "0.011512232013047"
+            }
+        },
+        "Realistic": {
+            "man": {
+                "index": 1181,
+                "weight": "0.000034265736758"
+            },
+            "woman": {
+                "index": 1065,
+                "weight": "0.000041352770495"
+            }
+        },
+        "Reflective": {
+            "man": {
+                "index": 2004,
+                "weight": "0.000014884392840"
+            },
+            "woman": {
+                "index": 3233,
+                "weight": "0.000007204815574"
+            }
+        },
+        "Relaxed": {
+            "man": {
+                "index": 725,
+                "weight": "0.000069640802394"
+            },
+            "woman": {
+                "index": 1190,
+                "weight": "0.000034250955650"
+            }
+        },
+        "Reliable": {
+            "man": {
+                "index": 359,
+                "weight": "0.000218211396714"
+            },
+            "woman": {
+                "index": 429,
+                "weight": "0.000159767339937"
+            }
+        },
+        "Resourceful": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Respectful": {
+            "man": {
+                "index": 563,
+                "weight": "0.000102899961348"
+            },
+            "woman": {
+                "index": 633,
+                "weight": "0.000087077365606"
+            }
+        },
+        "Responsible": {
+            "man": {
+                "index": 116,
+                "weight": "0.001106896204874"
+            },
+            "woman": {
+                "index": 149,
+                "weight": "0.000719680916518"
+            }
+        },
+        "Responsive": {
+            "man": {
+                "index": 2029,
+                "weight": "0.000014606083823"
+            },
+            "woman": {
+                "index": 1241,
+                "weight": "0.000031941603083"
+            }
+        },
+        "Reverential": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Romantic": {
+            "man": {
+                "index": 160,
+                "weight": "0.000687825144269"
+            },
+            "woman": {
+                "index": 103,
+                "weight": "0.001239888370037"
+            }
+        },
+        "Rustic": {
+            "man": {
+                "index": 3324,
+                "weight": "0.000006318450687"
+            },
+            "woman": {
+                "index": 3806,
+                "weight": "0.000005420482012"
+            }
+        },
+        "Sage": {
+            "man": {
+                "index": 4230,
+                "weight": "0.000004214442015"
+            },
+            "woman": {
+                "index": 8091,
+                "weight": "0.000001432771455"
+            }
+        },
+        "Sane": {
+            "man": {
+                "index": 108,
+                "weight": "0.001301372307353"
+            },
+            "woman": {
+                "index": 111,
+                "weight": "0.001101252972148"
+            }
+        },
+        "Scholarly": {
+            "man": {
+                "index": 1545,
+                "weight": "0.000022495778467"
+            },
+            "woman": {
+                "index": 1521,
+                "weight": "0.000023930226234"
+            }
+        },
+        "Scrupulous": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Secure": {
+            "man": {
+                "index": 1388,
+                "weight": "0.000026213139790"
+            },
+            "woman": {
+                "index": 1459,
+                "weight": "0.000025349274438"
+            }
+        },
+        "Selfless": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Self-critical": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Self-defacing": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Self-denying": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Self-reliant": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Self-sufficent": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Sensitive": {
+            "man": {
+                "index": 213,
+                "weight": "0.000479464593809"
+            },
+            "woman": {
+                "index": 168,
+                "weight": "0.000599278428126"
+            }
+        },
+        "Sentimental": {
+            "man": {
+                "index": 413,
+                "weight": "0.000171101724845"
+            },
+            "woman": {
+                "index": 470,
+                "weight": "0.000137672439450"
+            }
+        },
+        "Seraphic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Serious": {
+            "man": {
+                "index": 62,
+                "weight": "0.002180430106819"
+            },
+            "woman": {
+                "index": 90,
+                "weight": "0.001531119109131"
+            }
+        },
+        "Sexy": {
+            "man": {
+                "index": 241,
+                "weight": "0.000404974998673"
+            },
+            "woman": {
+                "index": 150,
+                "weight": "0.000719281262718"
+            }
+        },
+        "Sharing": {
+            "man": {
+                "index": 7762,
+                "weight": "0.000001437589958"
+            },
+            "woman": {
+                "index": 8244,
+                "weight": "0.000001373017653"
+            }
+        },
+        "Shrewd": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Simple": {
+            "man": {
+                "index": 8,
+                "weight": "0.014010532759130"
+            },
+            "woman": {
+                "index": 27,
+                "weight": "0.006996669806540"
+            }
+        },
+        "Skillful": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Sober": {
+            "man": {
+                "index": 441,
+                "weight": "0.000155925750732"
+            },
+            "woman": {
+                "index": 939,
+                "weight": "0.000049758029490"
+            }
+        },
+        "Sociable": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Solid": {
+            "man": {
+                "index": 72,
+                "weight": "0.001859189709648"
+            },
+            "woman": {
+                "index": 277,
+                "weight": "0.000321247585816"
+            }
+        },
+        "Sophisticated": {
+            "man": {
+                "index": 757,
+                "weight": "0.000065021507908"
+            },
+            "woman": {
+                "index": 553,
+                "weight": "0.000107442443550"
+            }
+        },
+        "Spontaneous": {
+            "man": {
+                "index": 887,
+                "weight": "0.000053703301091"
+            },
+            "woman": {
+                "index": 823,
+                "weight": "0.000059069738199"
+            }
+        },
+        "Sporting": {
+            "man": {
+                "index": 1533,
+                "weight": "0.000022785927285"
+            },
+            "woman": {
+                "index": 2460,
+                "weight": "0.000011011709830"
+            }
+        },
+        "Stable": {
+            "man": {
+                "index": 316,
+                "weight": "0.000263857102254"
+            },
+            "woman": {
+                "index": 374,
+                "weight": "0.000194183900021"
+            }
+        },
+        "Steadfast": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Steady": {
+            "man": {
+                "index": 916,
+                "weight": "0.000051242455811"
+            },
+            "woman": {
+                "index": 1119,
+                "weight": "0.000038303245674"
+            }
+        },
+        "Stoic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Strong": {
+            "man": {
+                "index": 10,
+                "weight": "0.013656968250871"
+            },
+            "woman": {
+                "index": 14,
+                "weight": "0.012477057985961"
+            }
+        },
+        "Studious": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Suave": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Subtle": {
+            "man": {
+                "index": 686,
+                "weight": "0.000076750773587"
+            },
+            "woman": {
+                "index": 922,
+                "weight": "0.000051204176998"
+            }
+        },
+        "Sweet": {
+            "man": {
+                "index": 774,
+                "weight": "0.000063614606916"
+            },
+            "woman": {
+                "index": 761,
+                "weight": "0.000066080217948"
+            }
+        },
+        "Sympathetic": {
+            "man": {
+                "index": 1503,
+                "weight": "0.000023518245143"
+            },
+            "woman": {
+                "index": 2067,
+                "weight": "0.000014595062567"
+            }
+        },
+        "Systematic": {
+            "man": {
+                "index": 2981,
+                "weight": "0.000007690364328"
+            },
+            "woman": {
+                "index": 2068,
+                "weight": "0.000014582094991"
+            }
+        },
+        "Tasteful": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Teacherly": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Thorough": {
+            "man": {
+                "index": 1390,
+                "weight": "0.000026182733563"
+            },
+            "woman": {
+                "index": 1809,
+                "weight": "0.000017823980670"
+            }
+        },
+        "Tidy": {
+            "man": {
+                "index": 2036,
+                "weight": "0.000014518258467"
+            },
+            "woman": {
+                "index": 1488,
+                "weight": "0.000024624177968"
+            }
+        },
+        "Tolerant": {
+            "man": {
+                "index": 1155,
+                "weight": "0.000035715951526"
+            },
+            "woman": {
+                "index": 1557,
+                "weight": "0.000022902513592"
+            }
+        },
+        "Tractable": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Trusting": {
+            "man": {
+                "index": 561,
+                "weight": "0.000103798243799"
+            },
+            "woman": {
+                "index": 915,
+                "weight": "0.000051514394727"
+            }
+        },
+        "Uncomplaining": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Understanding": {
+            "man": {
+                "index": 2975,
+                "weight": "0.000007707706573"
+            },
+            "woman": {
+                "index": 5475,
+                "weight": "0.000002861729172"
+            }
+        },
+        "Undogmatic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Upright": {
+            "man": {
+                "index": 653,
+                "weight": "0.000084540944954"
+            },
+            "woman": {
+                "index": 1172,
+                "weight": "0.000035233104427"
+            }
+        },
+        "Urbane": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Venturesome": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Vivacious": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Warm": {
+            "man": {
+                "index": 485,
+                "weight": "0.000133972513140"
+            },
+            "woman": {
+                "index": 833,
+                "weight": "0.000057906210714"
+            }
+        },
+        "Well-bred": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Well-read": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Well-rounded": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Winning": {
+            "man": {
+                "index": 4218,
+                "weight": "0.000004224824352"
+            },
+            "woman": {
+                "index": 5388,
+                "weight": "0.000002956791377"
+            }
+        },
+        "Wise": {
+            "man": {
+                "index": 326,
+                "weight": "0.000253569509368"
+            },
+            "woman": {
+                "index": 708,
+                "weight": "0.000072887676652"
+            }
+        },
+        "Witty": {
+            "man": {
+                "index": 1336,
+                "weight": "0.000027775291528"
+            },
+            "woman": {
+                "index": 1362,
+                "weight": "0.000027909236451"
+            }
+        },
+        "Youthful": {
+            "man": {
+                "index": 2181,
+                "weight": "0.000012820054508"
+            },
+            "woman": {
+                "index": 3000,
+                "weight": "0.000008072952369"
+            }
+        }
+    },
+    "negative": {
+        "Absentminded": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Aggressive": {
+            "man": {
+                "index": 5983,
+                "weight": "0.000002316448445"
+            },
+            "woman": {
+                "index": 7612,
+                "weight": "0.000001601382451"
+            }
+        },
+        "Ambitious": {
+            "man": {
+                "index": 4305,
+                "weight": "0.000004063179404"
+            },
+            "woman": {
+                "index": 5674,
+                "weight": "0.000002691593409"
+            }
+        },
+        "Amusing": {
+            "man": {
+                "index": 15334,
+                "weight": "0.000000338647851"
+            },
+            "woman": {
+                "index": 19582,
+                "weight": "0.000000191139691"
+            }
+        },
+        "Artful": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Ascetic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Authoritarian": {
+            "man": {
+                "index": 9212,
+                "weight": "0.000001044375949"
+            },
+            "woman": {
+                "index": 11572,
+                "weight": "0.000000688329692"
+            }
+        },
+        "Big-thinking": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Boyish": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Breezy": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Businesslike": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Busy": {
+            "man": {
+                "index": 354,
+                "weight": "0.000224799834541"
+            },
+            "woman": {
+                "index": 484,
+                "weight": "0.000134304922540"
+            }
+        },
+        "Casual": {
+            "man": {
+                "index": 610,
+                "weight": "0.000093033457233"
+            },
+            "woman": {
+                "index": 461,
+                "weight": "0.000142465985846"
+            }
+        },
+        "Cerebral": {
+            "man": {
+                "index": 1668,
+                "weight": "0.000019957411496"
+            },
+            "woman": {
+                "index": 2240,
+                "weight": "0.000012897133274"
+            }
+        },
+        "Chummy": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Circumspect": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Competitive": {
+            "man": {
+                "index": 1080,
+                "weight": "0.000040352100768"
+            },
+            "woman": {
+                "index": 901,
+                "weight": "0.000052645773394"
+            }
+        },
+        "Complex": {
+            "man": {
+                "index": 84,
+                "weight": "0.001639754627831"
+            },
+            "woman": {
+                "index": 72,
+                "weight": "0.002107806969434"
+            }
+        },
+        "Confidential": {
+            "man": {
+                "index": 4084,
+                "weight": "0.000004467072813"
+            },
+            "woman": {
+                "index": 2585,
+                "weight": "0.000010191930414"
+            }
+        },
+        "Conservative": {
+            "man": {
+                "index": 708,
+                "weight": "0.000072592301876"
+            },
+            "woman": {
+                "index": 450,
+                "weight": "0.000147774946527"
+            }
+        },
+        "Contradictory": {
+            "man": {
+                "index": 623,
+                "weight": "0.000090257191914"
+            },
+            "woman": {
+                "index": 681,
+                "weight": "0.000077539596532"
+            }
+        },
+        "Crisp": {
+            "man": {
+                "index": 11847,
+                "weight": "0.000000623504604"
+            },
+            "woman": {
+                "index": 16097,
+                "weight": "0.000000302719087"
+            }
+        },
+        "Cute": {
+            "man": {
+                "index": 1739,
+                "weight": "0.000018445762180"
+            },
+            "woman": {
+                "index": 1586,
+                "weight": "0.000022227450245"
+            }
+        },
+        "Deceptive": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Determined": {
+            "man": {
+                "index": 185,
+                "weight": "0.000555390375666"
+            },
+            "woman": {
+                "index": 122,
+                "weight": "0.000966463005170"
+            }
+        },
+        "Dominating": {
+            "man": {
+                "index": 2237,
+                "weight": "0.000012336583495"
+            },
+            "woman": {
+                "index": 2690,
+                "weight": "0.000009598851648"
+            }
+        },
+        "Dreamy": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Driving": {
+            "man": {
+                "index": 1621,
+                "weight": "0.000020938476155"
+            },
+            "woman": {
+                "index": 1678,
+                "weight": "0.000020269228116"
+            }
+        },
+        "Droll": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Dry": {
+            "man": {
+                "index": 828,
+                "weight": "0.000058202691434"
+            },
+            "woman": {
+                "index": 970,
+                "weight": "0.000047606146836"
+            }
+        },
+        "Earthy": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Effeminate": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Emotional": {
+            "man": {
+                "index": 613,
+                "weight": "0.000092646710982"
+            },
+            "woman": {
+                "index": 595,
+                "weight": "0.000096653253422"
+            }
+        },
+        "Enigmatic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Experimental": {
+            "man": {
+                "index": 13147,
+                "weight": "0.000000493897346"
+            },
+            "woman": {
+                "index": 12716,
+                "weight": "0.000000551453638"
+            }
+        },
+        "Familial": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Folksy": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Formal": {
+            "man": {
+                "index": 401,
+                "weight": "0.000183549957001"
+            },
+            "woman": {
+                "index": 259,
+                "weight": "0.000353396637365"
+            }
+        },
+        "Freewheeling": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Frugal": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Glamorous": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Guileless": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "High-spirited": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Hurried": {
+            "man": {
+                "index": 7463,
+                "weight": "0.000001546735234"
+            },
+            "woman": {
+                "index": 6727,
+                "weight": "0.000002003681857"
+            }
+        },
+        "Hypnotic": {
+            "man": {
+                "index": 5299,
+                "weight": "0.000002854564627"
+            },
+            "woman": {
+                "index": 4950,
+                "weight": "0.000003443949936"
+            }
+        },
+        "Iconoclastic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Idiosyncratic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Impassive": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Impersonal": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Impressionable": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Intense": {
+            "man": {
+                "index": 6337,
+                "weight": "0.000002102125791"
+            },
+            "woman": {
+                "index": 10308,
+                "weight": "0.000000881554854"
+            }
+        },
+        "Invisible": {
+            "man": {
+                "index": 1032,
+                "weight": "0.000043439249566"
+            },
+            "woman": {
+                "index": 1935,
+                "weight": "0.000016290074200"
+            }
+        },
+        "Irreligious": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Irreverent": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Maternal": {
+            "man": {
+                "index": 7725,
+                "weight": "0.000001451967705"
+            },
+            "woman": {
+                "index": 1912,
+                "weight": "0.000016604763005"
+            }
+        },
+        "Mellow": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Modern": {
+            "man": {
+                "index": 94,
+                "weight": "0.001429105526768"
+            },
+            "woman": {
+                "index": 61,
+                "weight": "0.002472073305398"
+            }
+        },
+        "Moralistic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Mystical": {
+            "man": {
+                "index": 616,
+                "weight": "0.000091669884569"
+            },
+            "woman": {
+                "index": 845,
+                "weight": "0.000057097338868"
+            }
+        },
+        "Neutral": {
+            "man": {
+                "index": 630,
+                "weight": "0.000089552668214"
+            },
+            "woman": {
+                "index": 416,
+                "weight": "0.000169120175997"
+            }
+        },
+        "Noncommittal": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Noncompetitive": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Obedient": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Old-fashioned": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Ordinary": {
+            "man": {
+                "index": 319,
+                "weight": "0.000259559106780"
+            },
+            "woman": {
+                "index": 649,
+                "weight": "0.000084066188720"
+            }
+        },
+        "Outspoken": {
+            "man": {
+                "index": 13519,
+                "weight": "0.000000464267998"
+            },
+            "woman": {
+                "index": 9098,
+                "weight": "0.000001132883767"
+            }
+        },
+        "Paternalistic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Physical": {
+            "man": {
+                "index": 11,
+                "weight": "0.013187402859330"
+            },
+            "woman": {
+                "index": 29,
+                "weight": "0.006631823256612"
+            }
+        },
+        "Placid": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Political": {
+            "man": {
+                "index": 57,
+                "weight": "0.002286737784743"
+            },
+            "woman": {
+                "index": 49,
+                "weight": "0.003046120982617"
+            }
+        },
+        "Predictable": {
+            "man": {
+                "index": 576,
+                "weight": "0.000100675155409"
+            },
+            "woman": {
+                "index": 593,
+                "weight": "0.000096933414170"
+            }
+        },
+        "Preoccupied": {
+            "man": {
+                "index": 7005,
+                "weight": "0.000001742422796"
+            },
+            "woman": {
+                "index": 6715,
+                "weight": "0.000002010264097"
+            }
+        },
+        "Private": {
+            "man": {
+                "index": 32,
+                "weight": "0.005074996966869"
+            },
+            "woman": {
+                "index": 48,
+                "weight": "0.003130265278742"
+            }
+        },
+        "Progressive": {
+            "man": {
+                "index": 844,
+                "weight": "0.000056899283663"
+            },
+            "woman": {
+                "index": 907,
+                "weight": "0.000051861272368"
+            }
+        },
+        "Proud": {
+            "man": {
+                "index": 239,
+                "weight": "0.000405129132560"
+            },
+            "woman": {
+                "index": 293,
+                "weight": "0.000290999858407"
+            }
+        },
+        "Pure": {
+            "man": {
+                "index": 265,
+                "weight": "0.000351259484887"
+            },
+            "woman": {
+                "index": 541,
+                "weight": "0.000111179018859"
+            }
+        },
+        "Questioning": {
+            "man": {
+                "index": 1248,
+                "weight": "0.000031129260606"
+            },
+            "woman": {
+                "index": 1005,
+                "weight": "0.000044992626499"
+            }
+        },
+        "Quiet": {
+            "man": {
+                "index": 162,
+                "weight": "0.000682715966832"
+            },
+            "woman": {
+                "index": 189,
+                "weight": "0.000495556800161"
+            }
+        },
+        "Religious": {
+            "man": {
+                "index": 16,
+                "weight": "0.011283430270851"
+            },
+            "woman": {
+                "index": 10,
+                "weight": "0.015440567396581"
+            }
+        },
+        "Reserved": {
+            "man": {
+                "index": 1518,
+                "weight": "0.000023102986233"
+            },
+            "woman": {
+                "index": 817,
+                "weight": "0.000059923528170"
+            }
+        },
+        "Restrained": {
+            "man": {
+                "index": 2503,
+                "weight": "0.000010230030057"
+            },
+            "woman": {
+                "index": 2212,
+                "weight": "0.000013188997400"
+            }
+        },
+        "Retiring": {
+            "man": {
+                "index": 1375,
+                "weight": "0.000026782048735"
+            },
+            "woman": {
+                "index": 1142,
+                "weight": "0.000037111098209"
+            }
+        },
+        "Sarcastic": {
+            "man": {
+                "index": 1972,
+                "weight": "0.000015242613699"
+            },
+            "woman": {
+                "index": 2059,
+                "weight": "0.000014704734895"
+            }
+        },
+        "Self-conscious": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Sensual": {
+            "man": {
+                "index": 157,
+                "weight": "0.000700042117387"
+            },
+            "woman": {
+                "index": 76,
+                "weight": "0.002001103945076"
+            }
+        },
+        "Skeptical": {
+            "man": {
+                "index": 2410,
+                "weight": "0.000010930253666"
+            },
+            "woman": {
+                "index": 2908,
+                "weight": "0.000008420054655"
+            }
+        },
+        "Smooth": {
+            "man": {
+                "index": 1308,
+                "weight": "0.000028911112167"
+            },
+            "woman": {
+                "index": 2000,
+                "weight": "0.000015411165805"
+            }
+        },
+        "Soft": {
+            "man": {
+                "index": 372,
+                "weight": "0.000208744473639"
+            },
+            "woman": {
+                "index": 334,
+                "weight": "0.000237385102082"
+            }
+        },
+        "Solemn": {
+            "man": {
+                "index": 1235,
+                "weight": "0.000031671592296"
+            },
+            "woman": {
+                "index": 2306,
+                "weight": "0.000012239744137"
+            }
+        },
+        "Solitary": {
+            "man": {
+                "index": 87,
+                "weight": "0.001587135717273"
+            },
+            "woman": {
+                "index": 157,
+                "weight": "0.000673236034345"
+            }
+        },
+        "Stern": {
+            "man": {
+                "index": 2789,
+                "weight": "0.000008605056792"
+            },
+            "woman": {
+                "index": 3225,
+                "weight": "0.000007223047305"
+            }
+        },
+        "Strict": {
+            "man": {
+                "index": 1030,
+                "weight": "0.000043572454160"
+            },
+            "woman": {
+                "index": 1064,
+                "weight": "0.000041491111915"
+            }
+        },
+        "Stubborn": {
+            "man": {
+                "index": 250,
+                "weight": "0.000386222236557"
+            },
+            "woman": {
+                "index": 245,
+                "weight": "0.000368984910892"
+            }
+        },
+        "Stylish": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Subjective": {
+            "man": {
+                "index": 292,
+                "weight": "0.000300328683807"
+            },
+            "woman": {
+                "index": 184,
+                "weight": "0.000509728037287"
+            }
+        },
+        "Surprising": {
+            "man": {
+                "index": 3403,
+                "weight": "0.000006076354111"
+            },
+            "woman": {
+                "index": 4211,
+                "weight": "0.000004546131095"
+            }
+        },
+        "Tough": {
+            "man": {
+                "index": 476,
+                "weight": "0.000138322779094"
+            },
+            "woman": {
+                "index": 425,
+                "weight": "0.000161066956935"
+            }
+        },
+        "Unaggressive": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Unambitious": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Unceremonious": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Unchanging": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Undemanding": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Unfathomable": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Unhurried": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Uninhibited": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Unpatriotic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Unpredictable": {
+            "man": {
+                "index": 2833,
+                "weight": "0.000008377135600"
+            },
+            "woman": {
+                "index": 2752,
+                "weight": "0.000009206773029"
+            }
+        },
+        "Unsentimental": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Whimsical": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Abrasive": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Abrupt": {
+            "man": {
+                "index": 19516,
+                "weight": "0.000000171024794"
+            },
+            "woman": {
+                "index": 20312,
+                "weight": "0.000000168504940"
+            }
+        },
+        "Agonizing": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Aimless": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Aloof": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Amoral": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Angry": {
+            "man": {
+                "index": 2867,
+                "weight": "0.000008197224815"
+            },
+            "woman": {
+                "index": 5763,
+                "weight": "0.000002614021696"
+            }
+        },
+        "Anxious": {
+            "man": {
+                "index": 7561,
+                "weight": "0.000001510884999"
+            },
+            "woman": {
+                "index": 9278,
+                "weight": "0.000001088886506"
+            }
+        },
+        "Apathetic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Arbitrary": {
+            "man": {
+                "index": 4959,
+                "weight": "0.000003213893024"
+            },
+            "woman": {
+                "index": 4934,
+                "weight": "0.000003455125352"
+            }
+        },
+        "Argumentative": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Arrogant": {
+            "man": {
+                "index": 3595,
+                "weight": "0.000005529565897"
+            },
+            "woman": {
+                "index": 6683,
+                "weight": "0.000002027613846"
+            }
+        },
+        "Artificial": {
+            "man": {
+                "index": 3864,
+                "weight": "0.000004907045877"
+            },
+            "woman": {
+                "index": 3865,
+                "weight": "0.000005248663001"
+            }
+        },
+        "Asocial": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Bewildered": {
+            "man": {
+                "index": 2797,
+                "weight": "0.000008571427315"
+            },
+            "woman": {
+                "index": 4473,
+                "weight": "0.000004100555543"
+            }
+        },
+        "Bizarre": {
+            "man": {
+                "index": 3367,
+                "weight": "0.000006193251465"
+            },
+            "woman": {
+                "index": 4136,
+                "weight": "0.000004675274795"
+            }
+        },
+        "Bland": {
+            "man": {
+                "index": 3983,
+                "weight": "0.000004645898116"
+            },
+            "woman": {
+                "index": 5173,
+                "weight": "0.000003164405598"
+            }
+        },
+        "Blunt": {
+            "man": {
+                "index": 1905,
+                "weight": "0.000016031304767"
+            },
+            "woman": {
+                "index": 1153,
+                "weight": "0.000036479479604"
+            }
+        },
+        "Boisterous": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Brittle": {
+            "man": {
+                "index": 6773,
+                "weight": "0.000001853789627"
+            },
+            "woman": {
+                "index": 5179,
+                "weight": "0.000003159502285"
+            }
+        },
+        "Brutal": {
+            "man": {
+                "index": 1379,
+                "weight": "0.000026520259780"
+            },
+            "woman": {
+                "index": 2858,
+                "weight": "0.000008646751667"
+            }
+        },
+        "Calculating": {
+            "man": {
+                "index": 1229,
+                "weight": "0.000032062871469"
+            },
+            "woman": {
+                "index": 1377,
+                "weight": "0.000027454461815"
+            }
+        },
+        "Callous": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Cantankerous": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Careless": {
+            "man": {
+                "index": 1317,
+                "weight": "0.000028577447665"
+            },
+            "woman": {
+                "index": 2648,
+                "weight": "0.000009834123375"
+            }
+        },
+        "Charmless": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Childish": {
+            "man": {
+                "index": 3619,
+                "weight": "0.000005470098586"
+            },
+            "woman": {
+                "index": 4644,
+                "weight": "0.000003825113708"
+            }
+        },
+        "Clumsy": {
+            "man": {
+                "index": 1063,
+                "weight": "0.000041061888624"
+            },
+            "woman": {
+                "index": 1641,
+                "weight": "0.000021038365958"
+            }
+        },
+        "Coarse": {
+            "man": {
+                "index": 5319,
+                "weight": "0.000002834979568"
+            },
+            "woman": {
+                "index": 6387,
+                "weight": "0.000002189080760"
+            }
+        },
+        "Cold": {
+            "man": {
+                "index": 317,
+                "weight": "0.000262782035861"
+            },
+            "woman": {
+                "index": 579,
+                "weight": "0.000099251577922"
+            }
+        },
+        "Colorless": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Complacent": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Complaining": {
+            "man": {
+                "index": 6035,
+                "weight": "0.000002286611107"
+            },
+            "woman": {
+                "index": 4434,
+                "weight": "0.000004159941454"
+            }
+        },
+        "Compulsive": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Conceited": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Condemnatory": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Conformist": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Confused": {
+            "man": {
+                "index": 141,
+                "weight": "0.000820556306280"
+            },
+            "woman": {
+                "index": 173,
+                "weight": "0.000567713403143"
+            }
+        },
+        "Contemptible": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Conventional": {
+            "man": {
+                "index": 692,
+                "weight": "0.000076095522672"
+            },
+            "woman": {
+                "index": 530,
+                "weight": "0.000116272800369"
+            }
+        },
+        "Cowardly": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Crass": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Crazy": {
+            "man": {
+                "index": 89,
+                "weight": "0.001529786619358"
+            },
+            "woman": {
+                "index": 104,
+                "weight": "0.001235033269040"
+            }
+        },
+        "Criminal": {
+            "man": {
+                "index": 333,
+                "weight": "0.000244882568950"
+            },
+            "woman": {
+                "index": 380,
+                "weight": "0.000188035279280"
+            }
+        },
+        "Critical": {
+            "man": {
+                "index": 1581,
+                "weight": "0.000021790559913"
+            },
+            "woman": {
+                "index": 1374,
+                "weight": "0.000027535117624"
+            }
+        },
+        "Crude": {
+            "man": {
+                "index": 4057,
+                "weight": "0.000004518914466"
+            },
+            "woman": {
+                "index": 6473,
+                "weight": "0.000002143006895"
+            }
+        },
+        "Cruel": {
+            "man": {
+                "index": 436,
+                "weight": "0.000159401781275"
+            },
+            "woman": {
+                "index": 676,
+                "weight": "0.000078986849985"
+            }
+        },
+        "Cynical": {
+            "man": {
+                "index": 1114,
+                "weight": "0.000038298148866"
+            },
+            "woman": {
+                "index": 1739,
+                "weight": "0.000019141351004"
+            }
+        },
+        "Decadent": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Deceitful": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Delicate": {
+            "man": {
+                "index": 1403,
+                "weight": "0.000025765084501"
+            },
+            "woman": {
+                "index": 719,
+                "weight": "0.000071501417551"
+            }
+        },
+        "Demanding": {
+            "man": {
+                "index": 925,
+                "weight": "0.000050452224968"
+            },
+            "woman": {
+                "index": 542,
+                "weight": "0.000110697008495"
+            }
+        },
+        "Dependent": {
+            "man": {
+                "index": 407,
+                "weight": "0.000179104739800"
+            },
+            "woman": {
+                "index": 283,
+                "weight": "0.000310986361001"
+            }
+        },
+        "Desperate": {
+            "man": {
+                "index": 336,
+                "weight": "0.000244297552854"
+            },
+            "woman": {
+                "index": 449,
+                "weight": "0.000147865866893"
+            }
+        },
+        "Destructive": {
+            "man": {
+                "index": 1696,
+                "weight": "0.000019291286662"
+            },
+            "woman": {
+                "index": 2040,
+                "weight": "0.000014938224012"
+            }
+        },
+        "Devious": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Difficult": {
+            "man": {
+                "index": 139,
+                "weight": "0.000847086543217"
+            },
+            "woman": {
+                "index": 108,
+                "weight": "0.001168399699964"
+            }
+        },
+        "Disconcerting": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Discontented": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Discouraging": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Discourteous": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Dishonest": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Disloyal": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Disobedient": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Disorderly": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Disorganized": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Disputatious": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Disrespectful": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Disruptive": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Dissonant": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Distractible": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Disturbing": {
+            "man": {
+                "index": 3184,
+                "weight": "0.000006837923138"
+            },
+            "woman": {
+                "index": 3875,
+                "weight": "0.000005222594154"
+            }
+        },
+        "Dogmatic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Domineering": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Dull": {
+            "man": {
+                "index": 1777,
+                "weight": "0.000017622651285"
+            },
+            "woman": {
+                "index": 2410,
+                "weight": "0.000011394527974"
+            }
+        },
+        "Easily Discouraged": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Egocentric": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Envious": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Erratic": {
+            "man": {
+                "index": 13300,
+                "weight": "0.000000481024244"
+            },
+            "woman": {
+                "index": 19945,
+                "weight": "0.000000180329991"
+            }
+        },
+        "Escapist": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Extravagant": {
+            "man": {
+                "index": 25315,
+                "weight": "0.000000059249512"
+            },
+            "woman": {
+                "index": 26180,
+                "weight": "0.000000043258154"
+            }
+        },
+        "Extreme": {
+            "man": {
+                "index": 7034,
+                "weight": "0.000001731384259"
+            },
+            "woman": {
+                "index": 7951,
+                "weight": "0.000001478042464"
+            }
+        },
+        "Faithless": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "False": {
+            "man": {
+                "index": 347,
+                "weight": "0.000231402402278"
+            },
+            "woman": {
+                "index": 564,
+                "weight": "0.000103362661321"
+            }
+        },
+        "Fanatical": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Fanciful": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Fatalistic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Fawning": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Fearful": {
+            "man": {
+                "index": 864,
+                "weight": "0.000054896830989"
+            },
+            "woman": {
+                "index": 827,
+                "weight": "0.000058626766986"
+            }
+        },
+        "Fickle": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Fiery": {
+            "man": {
+                "index": 2071,
+                "weight": "0.000014121589629"
+            },
+            "woman": {
+                "index": 1999,
+                "weight": "0.000015429430277"
+            }
+        },
+        "Fixed": {
+            "man": {
+                "index": 159,
+                "weight": "0.000689296401106"
+            },
+            "woman": {
+                "index": 198,
+                "weight": "0.000475714972708"
+            }
+        },
+        "Flamboyant": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Foolish": {
+            "man": {
+                "index": 256,
+                "weight": "0.000370050227502"
+            },
+            "woman": {
+                "index": 476,
+                "weight": "0.000136687012855"
+            }
+        },
+        "Forgetful": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Fraudulent": {
+            "man": {
+                "index": 4169,
+                "weight": "0.000004310674740"
+            },
+            "woman": {
+                "index": 4312,
+                "weight": "0.000004377103323"
+            }
+        },
+        "Frightening": {
+            "man": {
+                "index": 724,
+                "weight": "0.000069933470513"
+            },
+            "woman": {
+                "index": 937,
+                "weight": "0.000049871072406"
+            }
+        },
+        "Frivolous": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Gloomy": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Graceless": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Greedy": {
+            "man": {
+                "index": 1024,
+                "weight": "0.000043890497182"
+            },
+            "woman": {
+                "index": 1691,
+                "weight": "0.000020023227989"
+            }
+        },
+        "Grim": {
+            "man": {
+                "index": 3738,
+                "weight": "0.000005166563369"
+            },
+            "woman": {
+                "index": 13705,
+                "weight": "0.000000462609478"
+            }
+        },
+        "Gullible": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Hateful": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Haughty": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Hedonistic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Hesitant": {
+            "man": {
+                "index": 2635,
+                "weight": "0.000009388874787"
+            },
+            "woman": {
+                "index": 2564,
+                "weight": "0.000010286051292"
+            }
+        },
+        "Hidebound": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "High-handed": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Hostile": {
+            "man": {
+                "index": 1633,
+                "weight": "0.000020645707991"
+            },
+            "woman": {
+                "index": 2603,
+                "weight": "0.000010058312000"
+            }
+        },
+        "Ignorant": {
+            "man": {
+                "index": 3658,
+                "weight": "0.000005367183348"
+            },
+            "woman": {
+                "index": 6113,
+                "weight": "0.000002370647280"
+            }
+        },
+        "Imitative": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Impatient": {
+            "man": {
+                "index": 6884,
+                "weight": "0.000001795146204"
+            },
+            "woman": {
+                "index": 6846,
+                "weight": "0.000001940698439"
+            }
+        },
+        "Impractical": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Imprudent": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Impulsive": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Inconsiderate": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Incurious": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "IndecisiveIndulgentInert": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Inhibited": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Insecure": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Insensitive": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Insincere": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Insulting": {
+            "man": {
+                "index": 23370,
+                "weight": "0.000000093452719"
+            },
+            "woman": {
+                "index": 25054,
+                "weight": "0.000000060095807"
+            }
+        },
+        "Intolerant": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Irascible": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Irrational": {
+            "man": {
+                "index": 1236,
+                "weight": "0.000031657913496"
+            },
+            "woman": {
+                "index": 1304,
+                "weight": "0.000029467684726"
+            }
+        },
+        "Irresponsible": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Irritable": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Lazy": {
+            "man": {
+                "index": 591,
+                "weight": "0.000097725962405"
+            },
+            "woman": {
+                "index": 1178,
+                "weight": "0.000034849967051"
+            }
+        },
+        "Malicious": {
+            "man": {
+                "index": 1755,
+                "weight": "0.000018184586224"
+            },
+            "woman": {
+                "index": 1970,
+                "weight": "0.000015753461412"
+            }
+        },
+        "Mannerless": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Mechanical": {
+            "man": {
+                "index": 164,
+                "weight": "0.000672292953823"
+            },
+            "woman": {
+                "index": 220,
+                "weight": "0.000428720202763"
+            }
+        },
+        "Meddlesome": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Melancholic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Messy": {
+            "man": {
+                "index": 833,
+                "weight": "0.000057915302023"
+            },
+            "woman": {
+                "index": 1185,
+                "weight": "0.000034428339859"
+            }
+        },
+        "Miserable": {
+            "man": {
+                "index": 438,
+                "weight": "0.000157436705194"
+            },
+            "woman": {
+                "index": 985,
+                "weight": "0.000046348166507"
+            }
+        },
+        "Miserly": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Misguided": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Mistaken": {
+            "man": {
+                "index": 2529,
+                "weight": "0.000010043172551"
+            },
+            "woman": {
+                "index": 3904,
+                "weight": "0.000005162748494"
+            }
+        },
+        "Money-minded": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Moody": {
+            "man": {
+                "index": 4773,
+                "weight": "0.000003419419727"
+            },
+            "woman": {
+                "index": 6131,
+                "weight": "0.000002358778602"
+            }
+        },
+        "Morbid": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Muddle-headed": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Naive": {
+            "man": {
+                "index": 1134,
+                "weight": "0.000036966081097"
+            },
+            "woman": {
+                "index": 1378,
+                "weight": "0.000027436060918"
+            }
+        },
+        "Narcissistic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Narrow": {
+            "man": {
+                "index": 1411,
+                "weight": "0.000025621960958"
+            },
+            "woman": {
+                "index": 813,
+                "weight": "0.000060293838033"
+            }
+        },
+        "Narrow-minded": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Negative": {
+            "man": {
+                "index": 222,
+                "weight": "0.000443527416792"
+            },
+            "woman": {
+                "index": 250,
+                "weight": "0.000363136845408"
+            }
+        },
+        "Neglectful": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Neurotic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Nihilistic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Obnoxious": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Obsessive": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Obvious": {
+            "man": {
+                "index": 5602,
+                "weight": "0.000002594435045"
+            },
+            "woman": {
+                "index": 8834,
+                "weight": "0.000001197236088"
+            }
+        },
+        "Odd": {
+            "man": {
+                "index": 4179,
+                "weight": "0.000004300098226"
+            },
+            "woman": {
+                "index": 6412,
+                "weight": "0.000002176858288"
+            }
+        },
+        "Offhand": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "One-dimensional": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "One-sided": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Opinionated": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Opportunistic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Oppressed": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Outrageous": {
+            "man": {
+                "index": 17511,
+                "weight": "0.000000233856397"
+            },
+            "woman": {
+                "index": 16430,
+                "weight": "0.000000289644959"
+            }
+        },
+        "Paranoid": {
+            "man": {
+                "index": 1862,
+                "weight": "0.000016659638277"
+            },
+            "woman": {
+                "index": 2530,
+                "weight": "0.000010608911907"
+            }
+        },
+        "Passive": {
+            "man": {
+                "index": 503,
+                "weight": "0.000125925696921"
+            },
+            "woman": {
+                "index": 475,
+                "weight": "0.000136786053190"
+            }
+        },
+        "Pedantic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Perverse": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Petty": {
+            "man": {
+                "index": 2185,
+                "weight": "0.000012778505152"
+            },
+            "woman": {
+                "index": 2426,
+                "weight": "0.000011288595488"
+            }
+        },
+        "Plodding": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Pompous": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Possessive": {
+            "man": {
+                "index": 440,
+                "weight": "0.000155929839821"
+            },
+            "woman": {
+                "index": 246,
+                "weight": "0.000367718690541"
+            }
+        },
+        "Power-hungry": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Predatory": {
+            "man": {
+                "index": 856,
+                "weight": "0.000055924560002"
+            },
+            "woman": {
+                "index": 669,
+                "weight": "0.000079598001321"
+            }
+        },
+        "Prejudiced": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Presumptuous": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Pretentious": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Prim": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Procrastinating": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Provocative": {
+            "man": {
+                "index": 3339,
+                "weight": "0.000006280351045"
+            },
+            "woman": {
+                "index": 1227,
+                "weight": "0.000032535954233"
+            }
+        },
+        "Puritanical": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Quirky": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Reactionary": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Reactive": {
+            "man": {
+                "index": 4167,
+                "weight": "0.000004316022569"
+            },
+            "woman": {
+                "index": 5370,
+                "weight": "0.000002971683443"
+            }
+        },
+        "Regimental": {
+            "man": {
+                "index": 21905,
+                "weight": "0.000000124029270"
+            },
+            "woman": {
+                "index": 24053,
+                "weight": "0.000000077001943"
+            }
+        },
+        "Regretful": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Repentant": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Repressed": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Resentful": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Ridiculous": {
+            "man": {
+                "index": 1120,
+                "weight": "0.000037755089579"
+            },
+            "woman": {
+                "index": 1647,
+                "weight": "0.000020990368284"
+            }
+        },
+        "Rigid": {
+            "man": {
+                "index": 480,
+                "weight": "0.000136824019137"
+            },
+            "woman": {
+                "index": 598,
+                "weight": "0.000095887793577"
+            }
+        },
+        "Ritualistic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Ruined": {
+            "man": {
+                "index": 1465,
+                "weight": "0.000024357277653"
+            },
+            "woman": {
+                "index": 2422,
+                "weight": "0.000011307386558"
+            }
+        },
+        "Sadistic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Sanctimonious": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Scheming": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Scornful": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Secretive": {
+            "man": {
+                "index": 1467,
+                "weight": "0.000024311491870"
+            },
+            "woman": {
+                "index": 1985,
+                "weight": "0.000015597319361"
+            }
+        },
+        "Sedentary": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Selfish": {
+            "man": {
+                "index": 86,
+                "weight": "0.001591964741237"
+            },
+            "woman": {
+                "index": 113,
+                "weight": "0.001077799359336"
+            }
+        },
+        "Self-indulgent": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Shallow": {
+            "man": {
+                "index": 578,
+                "weight": "0.000100411802123"
+            },
+            "woman": {
+                "index": 463,
+                "weight": "0.000141043870826"
+            }
+        },
+        "Shortsighted": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Sloppy": {
+            "man": {
+                "index": 8119,
+                "weight": "0.000001326676966"
+            },
+            "woman": {
+                "index": 14632,
+                "weight": "0.000000391887710"
+            }
+        },
+        "Slow": {
+            "man": {
+                "index": 1474,
+                "weight": "0.000024170287361"
+            },
+            "woman": {
+                "index": 2093,
+                "weight": "0.000014343430848"
+            }
+        },
+        "Sly": {
+            "man": {
+                "index": 3448,
+                "weight": "0.000005929264717"
+            },
+            "woman": {
+                "index": 5677,
+                "weight": "0.000002689935855"
+            }
+        },
+        "Small-thinking": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Softheaded": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Sordid": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Steely": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Stiff": {
+            "man": {
+                "index": 1919,
+                "weight": "0.000015822550267"
+            },
+            "woman": {
+                "index": 2419,
+                "weight": "0.000011334074770"
+            }
+        },
+        "Stupid": {
+            "man": {
+                "index": 370,
+                "weight": "0.000210299825994"
+            },
+            "woman": {
+                "index": 906,
+                "weight": "0.000052248884458"
+            }
+        },
+        "Submissive": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Superficial": {
+            "man": {
+                "index": 1085,
+                "weight": "0.000039990263758"
+            },
+            "woman": {
+                "index": 1088,
+                "weight": "0.000039790080336"
+            }
+        },
+        "Superstitious": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Suspicious": {
+            "man": {
+                "index": 1140,
+                "weight": "0.000036785600969"
+            },
+            "woman": {
+                "index": 1411,
+                "weight": "0.000026619245546"
+            }
+        },
+        "Tactless": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Tasteless": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Tense": {
+            "man": {
+                "index": 2905,
+                "weight": "0.000008033234735"
+            },
+            "woman": {
+                "index": 3228,
+                "weight": "0.000007209978321"
+            }
+        },
+        "Thievish": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Thoughtless": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Timid": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Transparent": {
+            "man": {
+                "index": 813,
+                "weight": "0.000059631503973"
+            },
+            "woman": {
+                "index": 1037,
+                "weight": "0.000043002641178"
+            }
+        },
+        "Treacherous": {
+            "man": {
+                "index": 1244,
+                "weight": "0.000031270832551"
+            },
+            "woman": {
+                "index": 1720,
+                "weight": "0.000019463692297"
+            }
+        },
+        "Trendy": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Troublesome": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Unappreciative": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Uncaring": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Uncharitable": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Unconvincing": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Uncooperative": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Uncreative": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Uncritical": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Unctuous": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Undisciplined": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Unfriendly": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Ungrateful": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Unhealthy": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Unimaginative": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Unimpressive": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Unlovable": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Unpolished": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Unprincipled": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Unrealistic": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Unreflective": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Unreliable": {
+            "man": {
+                "index": 6200,
+                "weight": "0.000002173190069"
+            },
+            "woman": {
+                "index": 8914,
+                "weight": "0.000001178676939"
+            }
+        },
+        "Unrestrained": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Unstable": {
+            "man": {
+                "index": 4675,
+                "weight": "0.000003538733154"
+            },
+            "woman": {
+                "index": 4671,
+                "weight": "0.000003797540330"
+            }
+        },
+        "Vacuous": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Vague": {
+            "man": {
+                "index": 1685,
+                "weight": "0.000019475603040"
+            },
+            "woman": {
+                "index": 1482,
+                "weight": "0.000024759223379"
+            }
+        },
+        "Venomous": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Vindictive": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        },
+        "Vulnerable": {
+            "man": {
+                "index": 212,
+                "weight": "0.000482435163576"
+            },
+            "woman": {
+                "index": 120,
+                "weight": "0.000980982091278"
+            }
+        },
+        "Weak": {
+            "man": {
+                "index": 39,
+                "weight": "0.003752924269065"
+            },
+            "woman": {
+                "index": 79,
+                "weight": "0.001969896489754"
+            }
+        },
+        "Willful": {
+            "man": {
+                "index": null,
+                "weight": null
+            },
+            "woman": {
+                "index": null,
+                "weight": null
+            }
+        }
+    }
+}
